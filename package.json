@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whychki/server_sdie_javascript_tutorials.git"
+    "url": "git+https://github.com/whychki/nodejs_server_sdie_test.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/whychki/server_sdie_javascript_tutorials/issues"
+    "url": "https://github.com/whychki/nodejs_server_sdie_test/issues"
   },
-  "homepage": "https://github.com/whychki/server_sdie_javascript_tutorials#readme",
+  "homepage": "https://github.com/whychki/nodejs_server_sdie_test#readme",
   "dependencies": {
     "underscore": "^1.8.3"
   }
